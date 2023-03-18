@@ -1,0 +1,15 @@
+C:\Users\Алексей\RiderProjects\Таска1\Таска1\bin\Debug\net6.0\Таска1.exe
+C:\Users\Алексей\RiderProjects\Таска1\Таска1\bin\Debug\net6.0\Таска1.deps.json
+C:\Users\Алексей\RiderProjects\Таска1\Таска1\bin\Debug\net6.0\Таска1.runtimeconfig.json
+C:\Users\Алексей\RiderProjects\Таска1\Таска1\bin\Debug\net6.0\Таска1.dll
+C:\Users\Алексей\RiderProjects\Таска1\Таска1\bin\Debug\net6.0\Таска1.pdb
+C:\Users\Алексей\RiderProjects\Таска1\Таска1\obj\Debug\net6.0\Таска1.csproj.AssemblyReference.cache
+C:\Users\Алексей\RiderProjects\Таска1\Таска1\obj\Debug\net6.0\Таска1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\RiderProjects\Таска1\Таска1\obj\Debug\net6.0\Таска1.AssemblyInfoInputs.cache
+C:\Users\Алексей\RiderProjects\Таска1\Таска1\obj\Debug\net6.0\Таска1.AssemblyInfo.cs
+C:\Users\Алексей\RiderProjects\Таска1\Таска1\obj\Debug\net6.0\Таска1.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\RiderProjects\Таска1\Таска1\obj\Debug\net6.0\Таска1.dll
+C:\Users\Алексей\RiderProjects\Таска1\Таска1\obj\Debug\net6.0\refint\Таска1.dll
+C:\Users\Алексей\RiderProjects\Таска1\Таска1\obj\Debug\net6.0\Таска1.pdb
+C:\Users\Алексей\RiderProjects\Таска1\Таска1\obj\Debug\net6.0\Таска1.genruntimeconfig.cache
+C:\Users\Алексей\RiderProjects\Таска1\Таска1\obj\Debug\net6.0\ref\Таска1.dll
